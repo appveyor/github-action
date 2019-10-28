@@ -22,7 +22,7 @@ Benefits:
 
 ### Step 3 - Monitor image baking progress
 
-[ screen ]
+![Configure your VM image template](assets/img/github-action-step-3-monitor-progress.png)
 
 ### Step 4 - Use the Action to run builds on your image
 
