@@ -18,7 +18,7 @@ Benefits:
 
 ### Step 2 - Burn your image in the selected Azure region
 
-![Configure your VM image template](assets/img/github-action-step-2-configure-burn-image.png)
+![Configure your VM image template](assets/img/github-action-step-2-burn-image.png)
 
 ### Step 3 - Monitor image baking progress
 
