@@ -24,6 +24,6 @@ Benefits:
 
 [ screen ]
 
-### Step 4 - Configure GitHub Action to run builds on your image
+### Step 4 - Use the Action to run builds on your image
 
 [ screen ]
