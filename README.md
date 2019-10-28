@@ -12,7 +12,7 @@ Benefits:
 
 ## Usage
 
-### Step 1 - Configure your image in AppVeyor
+### Step 1 - Configure your image template in AppVeyor
 
 [ screen ]
 
