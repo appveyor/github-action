@@ -12,13 +12,13 @@ Benefits:
 
 ## Usage
 
-### Step 1 - Configure your image template in AppVeyor
+### Step 1 - Configure your VM image template in AppVeyor
 
 ![Configure your VM image template](assets/img/github-action-step-1-configure-image-template.png)
 
 ### Step 2 - Burn your image in the selected Azure region
 
-[ screen ]
+![Configure your VM image template](assets/img/github-action-step-2-configure-burn-image.png)
 
 ### Step 3 - Monitor image baking progress
 
