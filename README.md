@@ -14,7 +14,7 @@ Benefits:
 
 ### Step 1 - Configure your image template in AppVeyor
 
-[ screen ]
+![Configure your VM image template](assets/img/github-action-step-1-configure-image-template.png)
 
 ### Step 2 - Burn your image in the selected Azure region
 
