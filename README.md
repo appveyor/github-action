@@ -18,12 +18,12 @@ Benefits:
 
 ### Step 2 - Burn your image in the selected Azure region
 
-![Configure your VM image template](assets/img/github-action-step-2-burn-image.png)
+![Burn image](assets/img/github-action-step-2-burn-image.png)
 
 ### Step 3 - Monitor image baking progress
 
-![Configure your VM image template](assets/img/github-action-step-3-monitor-progress.png)
+![Monitor image baking progress](assets/img/github-action-step-3-monitor-progress.png)
 
 ### Step 4 - Use the Action to run builds on your image
 
-[ screen ]
+![Use GitHub Action](assets/img/github-action-step-4-use-action.png)
